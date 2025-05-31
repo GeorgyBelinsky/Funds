@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029126697794",
+    "project_id": "fundsraise-b74c4",
+    "storage_bucket": "fundsraise-b74c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029126697794:android:c1a21cbcf4e403bc09cedb",
+        "android_client_info": {
+          "package_name": "com.example.funds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVztizxnwtX2491RT6ySxnujXxmGPWdbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
